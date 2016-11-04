@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5966123E097B0A5A1E196D657D0E09BFA9716C38",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC" : 9223372036854775807,
+    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : 9223372036854775807,
+    "5966123E097B0A5A1E196D657D0E09BFA9716C38" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "138D4DEE-DBB8-4121-A4EB-C6E46835C503",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC" : "",
+    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : "..",
+    "5966123E097B0A5A1E196D657D0E09BFA9716C38" : "simple-calc-ios-2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "simple-calc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "simple-calc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DAE23FC12FCB25EFE149107E78560F41AAAB82C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc-ios-2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5966123E097B0A5A1E196D657D0E09BFA9716C38"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC"
+    }
+  ]
+}
